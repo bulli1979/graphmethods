@@ -1,0 +1,12 @@
+"ID","LABEL","kk","wiener","diameter","storyPoints","estimation"
+1,p1_auswahlprozess.gml,4335.28,983,9,8,132
+2,p1_manualEdit.gml,298.67,76,4,2,33
+3,p1_login.gml,77,49,5,1,23
+4,p2_login.gml,27.5,21,4,1,17
+5,p2_urlaubBeantragen.gml,48,36,5,3,27
+6,p2_urlaubFreigeben.gml,100,57,5,3,46
+7,p2_spesenBeantragen.gml,22.22,20,4,1,22
+8,p2_spesenFreigeben.gml,22.22,20,4,1,18
+9,p3_artikelInDenWarenkorb.gml,27.5,21,4,1,14
+10,p3_zahlvorgang.gml,710.069,275,8,5,52
+11,p3_registrieren.gml,256.67,129,7,3,32
